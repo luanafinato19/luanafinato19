@@ -1,3 +1,3 @@
-ola! bem vindo ao meu perfil
+###ola, bem vindo ao meu perfil :D
 
-sou apenas uma estudante fazendo projetos da alura :D
+*eu sou um estudante da alura
